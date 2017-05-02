@@ -1,10 +1,14 @@
 Baseball
 ===
 
-## sub directory
+## relative path
 
 ![Baseball](./baseball.png)
 
-## root directory
+## absolute path
+
+![Baseball](/docs/baseball/baseball.png)
+
+## absolute path to root
 
 ![Baseball](/docs/root_baseball.png)
